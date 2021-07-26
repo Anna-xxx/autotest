@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/autotest.iml" filepath="$PROJECT_DIR$/.idea/autotest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autotest.main.iml" filepath="$PROJECT_DIR$/.idea/modules/autotest.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/autotest.test.iml" filepath="$PROJECT_DIR$/.idea/modules/autotest.test.iml" />
+    </modules>
+  </component>
+</project>
